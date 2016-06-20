@@ -5,7 +5,7 @@ public class Maximo
 	/**
 	 *
 	 * @author Fernando
-	 *  Criterio de selección de caja de blanca: recorrer los caminos
+	 *  Criterio de seleccion de caja de blanca: recorrer los caminos
 	 *  Hay 5 caminos posibles:
 	 *  1) x > y  & x > z 
 	 *  2) x > y  & x <= z & z > y
